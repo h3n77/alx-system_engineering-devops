@@ -1,2 +1,2 @@
 #!/bin/bash
-echo BASE_{2..10} 
+echo $((2#$BINARY)) 
